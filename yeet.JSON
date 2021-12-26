@@ -1,7 +1,7 @@
 [
     {
         "name": "Amoxicilline",
-        "description": "Amoxicilline is een penicillinederivaat dat als breedspectrum-antibioticum veel gebruikt wordt bij velerlei infecties. Amoxicilline behoort tot de geneesmiddelen die penicilline-antibiotica worden genoemd en is actief tegen zowel grampositieve als gramnegatieve bacteriën. De werkzame stof, bètalactam, verhindert de celwandsynthese door de bacterie, waardoor hij zich niet kan vermenigvuldigen."
+        "description": "Amoxicilline is een penicillinederivaat dat als breedspectrum-antibioticum veel gebruikt wordt bij velerlei infecties. Amoxicilline behoort tot de geneesmiddelen die penicilline-antibiotica worden genoemd en is actief tegen zowel grampositieve als gramnegatieve bacteriën."
     },
     {
         "name": "Omeprazol",
@@ -13,10 +13,10 @@
     },
     {
         "name": "Ibuprofen",
-        "description": "Ibuprofen (naar het Engels: iso-butyl-propanoic-phenylic acid) is een pijnstillend middel dat behoort tot de groep van niet-steroïde ontstekingsremmers (NSAID's). Het werkt ontstekingsremmend, pijnstillend en koortsverlagend; de werking is vergelijkbaar met die van acetylsalicylzuur."
+        "description": "Ibuprofen (naar het Engels: iso-butyl-propanoic-phenylic acid) is een pijnstillend middel dat behoort tot de groep van niet-steroïde ontstekingsremmers (NSAID's). Het werkt ontstekingsremmend, pijnstillend en koortsverlagend;"
     },
     {
         "name": "Metoprolol",
-        "description": "Metoprolol is een selectieve β1-blokker die wordt gebruikt voor de behandelingen van verschillende cardiologische aandoeningen, zoals na een hartinfarct. Ook wordt het middel door huisartsen en internisten toegepast bij hypertensie. Metoprolol wordt ook gebruikt bij de behandeling van migraine."
+        "description": "Metoprolol is een selectieve β1-blokker die wordt gebruikt voor de behandelingen van verschillende cardiologische aandoeningen, zoals na een hartinfarct. Ook wordt het middel door huisartsen en internisten toegepast bij hypertensie."
     }
 ]
